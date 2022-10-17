@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author Sinan
- *
- */
-module deneme {
-}
